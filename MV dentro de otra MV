@@ -1,0 +1,12 @@
+aqui basicamente creamos una sub red para nostros tener acceso a otra maquina dentro de otra maquina virutal.
+esto puede servir en una empresa para poder tener un poco mas de control o testear otras MV antes de ponerlas a trabajar.
+el proceso es sensillo, solo tenemos que crear un grupo de recursos, despues tenemos que crear una MV y despues de la maquina virtual,
+tenemos que crear una sub red o llamada tambien una red virtual luego en el mismo grupo de recursos tenemos que crear otra maquina virtual ojo si la ubicacion de las MVs son--
+- son diferentes, no les aparecera la sub red, hay que tener mucho cuidado con eso, ya despues de conectar la red solo tenemos,
+despues de haber creado las redes virtuales se nos creara un network donde estara dentro las subredes y solo faltaria conectarlas con el CLI de azure.
+
+antes emparejaremos las maquinas virutales gracias a las redes y tendremos que copiar la ip asi podremos conectarlas.
+
+AQUI DEJO UN VIDEO DE COMO HACERLO Y EL RESULTADO 
+
+https://clipchamp.com/watch/gS2NAFOTrEv
