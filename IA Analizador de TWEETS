@@ -1,0 +1,17 @@
+En esta practica tuvimos que usar el portal portal.azure.com para poder crear una IA analizadora de tweets y aparte poder publicarlos en nuestros grupos,
+como teams entre otros.
+
+Utilizamos una funcion de azure que es para crear aplicaciones logicas, 
+en estas mismas tuvimos que usar varios componentes que ya vienen incluidos dentro de azure.
+
+como un analizador de bloques por tweet aparte usar otra funcionen dedicada a analizar sentimientos,
+ahi mismo tuvimos que especificar la id de usuario entre otras cosas.
+
+Tambien para esta practica hicimos uso de Google Drive para crear una cruadilla tipo excel para que mande los datos relacionados a la persona que mando el tweet,
+a la id, al sentimiento he aparte una cosa importante que es usar una tag por ejemplo en el mismo tweet, #IAwizzards, con este tag por asi decirlo,
+la Inteligencia Artificial esta IA recopilara todos los tweets con el #IAwizzards y los analizara clasificandolos por sentimientos y por el autor,
+aparte los mensajes tendran una publicacion en un grupo o en un canal de teams.
+
+Aqui dejo un video de la prueba ya con el resultado, donde muestro una parte del proceso y el grupo de recursos en el que fue creado.
+
+https://clipchamp.com/watch/gS2NAFOTrEv
