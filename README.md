@@ -1,4 +1,5 @@
 # Portafolio
 mi portafolio 
 
-AQUI SUBIRE MIS PROYECTOS :)
+Puede dar click en el archivo de :
+"IA para analizar tweets".
